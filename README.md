@@ -4,6 +4,8 @@
 
 Todos os elementos visuais — incluindo as expressões do avatar em 3D — foram gerados com inteligência artificial.
 
+Video de demonstração : https://youtu.be/tHZmYjUaQsQ
+
 ---
 
 ## 📋 Funcionalidades
